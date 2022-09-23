@@ -1,0 +1,29 @@
+body{
+    background-color: #B1B2FF;
+    font-family: sans-serif;
+    font  
+}
+h1{
+    font-size: 50px;
+    margin-left: 39%;
+    padding-top:10px;
+    font-weight: 700;
+    color: #16213E;
+
+}
+p{
+    color:#351F39;
+    margin-left: 43%;
+    font-weight: 300;
+    padding-top: 0;
+    
+}
+form{
+    margin-left: 38%;
+}
+a{
+    margin-left: 13%;
+}
+.message p{
+    margin-left: 10%;
+}
